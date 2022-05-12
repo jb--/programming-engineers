@@ -1,37 +1,35 @@
-## Welcome to Programming Engineers
+## Managers get people to do something.
 
-You can use the [editor on GitHub](https://github.com/jb--/programming-engineers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- As an engineering manager, my job is to "program engineers"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why this page?
 
-### Markdown
+- There is loads of good books out there that tell people about how to manage people
+- I wanted to write up what I consider important for my past self... 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Communication to non-techies
 
-```markdown
-Syntax highlighted code block
+- As engineering manager my key job is to ensure that my team reaches the business goal.
 
-# Header 1
-## Header 2
-### Header 3
+## Running Projects
 
-- Bulleted
-- List
+- As an engineering manager a relevant chunk of the job is to run and execute projects
+- Ensure that there are quick-save points in your project
 
-1. Numbered
-2. List
+## Solve problems
 
-**Bold** and _Italic_ and `Code` text
+- Consider speaking about options mutually exclusive completely exhaustive
 
-[Link](url) and ![Image](src)
-```
+## Spread a vision
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Don't tell your team how to build it, but tell them what the goal is that you want to do
 
-### Jekyll Themes
+## Be interested in people
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jb--/programming-engineers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Be really honestly curious about what your team thinks. 
+- [Ted Talk about communication](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
 
-### Support or Contact
+## Ensure that you're understood
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Ask questions like: "Did you get this?" "Does this make sense?"
+
