@@ -105,3 +105,22 @@
 - If you have a single person being the only one to work on something? 
 - Buzz factor of that person leaving
 - Team impact, worse quality.
+
+
+## Believe in the best of others
+
+- There might be different teams that do things differently than you would
+- Your prime thought should be that whatever they are doing, they are doing it with the best intentions. 
+
+
+## Praise your team
+
+- If you see an opportunitiy to give public praise to your team go for it!
+
+## Be cautious with critical feedback
+
+- If your team member annoys you, be cautious with showing it
+
+## Do situational leadership
+
+- Not every team member needs the same input at the same time. 
