@@ -81,3 +81,27 @@
 
 - You're an engineering lead? Make sure that you can still do engineering. If you're too long out, then you might become the kind of manager you never wanted to have. 
 
+## Defend your people
+
+- Your team depends on you to protect them from the outside 
+
+
+## Spread ideas in small circles
+
+- You want to get an idea through? Take the time and first check in with individuals, then discuss with the team to ensure you're aligned, then take it to a bigger group. 
+- Nothing sucks more than proposing an idea in front of a big group and the attacks come from within your own rows. 
+- In these cases, you are representing your team, not yourself. 
+
+## How to build great teams
+
+- Read tribal leadership 
+- Work with an individuals to get them like the job
+- Connect two indivdiuals to make sure that they are having bonds
+- Connect several groups of individuals to make sure that the team is a team
+
+
+## Ensure that your team is a team 
+- In a team, everyone should be able to work on all components.
+- If you have a single person being the only one to work on something? 
+- Buzz factor of that person leaving
+- Team impact, worse quality.
