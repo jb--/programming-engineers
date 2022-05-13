@@ -33,3 +33,51 @@
 
 - Ask questions like: "Did you get this?" "Does this make sense?"
 
+## Ensure that your software is easy
+
+> Gute Software muss stumpf sein
+
+## Take decisions and be able to defend them 
+
+- Make sure that there are two points to every decision you are taking.
+
+## Take your time
+
+- Sometimes the most burning urgent issues are actually not. 
+- Take a step back, relax and ask for how urgent it is.
+- If it's not urgent take your time
+- If you take time and the problem resolved itself, you did a good job
+
+## Keep the interfaces untouched - if you can
+
+- Working in a single team is easy, working across teams is hard
+
+
+## Good architecture is not an argument
+
+- It never is, what is though, is the underlying reasons behind it
+- You built a system that is now more performant in resource consumption and response times. The attributed business value is 5k€/month for the infra and no user impact on the response times. At the same time the change entails other costs like: More maintainenace, more difficult to understand, ... whatever. No good change.
+
+
+## Think for the other teams
+
+- unhappy stakeholders can impact your team's happiness. Watch out that you get things covered
+
+## Think about the big picture
+
+- How would you build it if it was all yours? You were to run the show and be responsible? Is it still in your area? In someone elses? 
+- Try to avoid: "Well we work with Java that's why we build this thing with Java, where a simple MySQL query would have done the job."
+
+## Prepare for the storm
+
+- If you can, and you know that the ship will be going through a storm, take precautions beforehand and prepare for the things that are important.
+
+## Don't take yourself too serious
+
+- Rather take a step back in the career ladder, rather risk your profile, if it serves the company. 
+- There's two teams, with two team leads, and you know it should be only one team? Push for it, make it happen. Do not care about your spot. Do not clinge to two teams, if it should be one, just because you want to save your own position. You would find a slot somewhere. 
+
+## Be cautious of the steps ahead
+
+- You're an engineering lead? Make sure that you can still do engineering. If you're too long out, then you might become the kind of manager you never wanted to have. 
+
